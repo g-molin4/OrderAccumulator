@@ -3,6 +3,8 @@
 API backend desenvolvida em **Node.js** com foco em **regras de negócio**, **acúmulo de ordens** e **cálculo de exposição financeira por ativo**.  
 O projeto segue boas práticas de arquitetura, testes automatizados e separação de responsabilidades. As tecnologias utilizadas foram escolhidas para seguir um bom padrão de código e também das tecnologias que tenho mais familiaridade.
 
+###     [Você consegue acessar o frontend clicando aqui](https://github.com/g-molin4/OrderGenerator)
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
@@ -53,8 +55,6 @@ O projeto segue boas práticas de arquitetura, testes automatizados e separaçã
 # 👨‍💻 Autor
   ### Gabriel Molina
   Desenvolvedor Backend / Full Stack
-
-
 
 
 
